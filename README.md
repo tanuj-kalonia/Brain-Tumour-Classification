@@ -38,7 +38,7 @@
 ## About Dataset  
 - Refer to [README.md](https://github.com/strikersps/Brain-MRI-Image-Classification-Using-Deep-Learning/blob/main/Brain-Tumor-Dataset/README.md) file in the [Brain Tumor Dataset directory](https://github.com/strikersps/Brain-MRI-Image-Classification-Using-Deep-Learning/tree/main/Brain-Tumor-Dataset) in this repository to get a clear idea about the dataset and the preprocessing steps.  
 - The below image gives a glimpse about the different kinds of tumors present in the human brain i.e. (Glioma, Meningioma, Pituitary)
-![Brain-MRI-Images-With-Localisation-Masks](https://github.com/strikersps/Brain-MRI-Image-Classification-Using-Deep-Learning/blob/main/Brain-Tumor-MRI-With-Localisation-Masks.png)    
+[Brain-MRI-Images-With-Localisation-Masks](https://github.com/tanuj-kalonia/Brain-Tumour-Classification/blob/master/brain-tumor-classification-mri/train/Glioma/100.png)    
 
 ## Results  
 - Developed 3 Deep Neural Network models i.e. Multi-Layer Perceptron, AlexNet-CNN, and Inception-V3 in order to classify the Brain MRI Images to 4 different independent classes.  
