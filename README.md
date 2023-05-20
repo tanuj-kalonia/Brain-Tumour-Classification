@@ -54,4 +54,4 @@
 
 
 ###### GNU General Public License v3.0  
-[![GPL-V3-Badge](https://img.shields.io/github/license/strikersps/Brain-MRI-Image-Classification-Using-Deep-Learning?color=red&style=for-the-badge)](https://github.com/darthdaenerys/Brain-Tumour-Classification/main/LICENSE)  
+[![GPL-V3-Badge](https://img.shields.io/github/license/strikersps/Brain-MRI-Image-Classification-Using-Deep-Learning?color=red&style=for-the-badge)](https://github.com/darthdaenerys/Brain-Tumour-Classification/master/LICENSE)  
