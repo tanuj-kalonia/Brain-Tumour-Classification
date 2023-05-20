@@ -8,9 +8,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Nm8JLCptOMqFHRtnXZeux_qoW9wtAgD_?usp=sharing)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![GitHub-Contributors](https://img.shields.io/github/contributors/darthdaenerys/Brain-Tumour-Classification.svg)]([https://github.com/strikersps/Brain-MRI-Image-Classification-Using-Deep-Learning](https://github.com/darthdaenerys/Brain-Tumour-Classification/graphs/contributors)/graphs/contributors) 
-[![GitHub-Issues](https://img.shields.io/github/issues/strikersps/Brain-MRI-Image-Classification-Using-Deep-Learning?style=flat-square)](https://github.com/strikersps/Brain-MRI-Image-Classification-Using-Deep-Learning/issues) 
-[![GitHub-Stars](https://img.shields.io/github/stars/strikersps/Brain-MRI-Image-Classification-Using-Deep-Learning?style=flat-square)](https://github.com/strikersps/Brain-MRI-Image-Classification-Using-Deep-Learning/stargazers)
-[![GitHub-Forks](https://img.shields.io/github/forks/strikersps/Brain-MRI-Image-Classification-Using-Deep-Learning?style=flat-square)](https://github.com/strikersps/Brain-MRI-Image-Classification-Using-Deep-Learning/network/members)  
+[![GitHub-Issues](https://img.shields.io/github/issues/darthdaenerys/Brain-Tumour-Classification?style=flat-square)](https://github.com/darthdaenerys/Brain-Tumour-Classification/issues) 
+[![GitHub-Stars](https://img.shields.io/github/stars/darthdaenerys/Brain-Tumour-Classification?style=flat-square)](https://github.com/strikersps/Brain-MRI-Image-Classification-Using-Deep-Learning/stargazers)
+[![GitHub-Forks](https://img.shields.io/github/forks/darthdaenerys/Brain-Tumour-Classification?style=flat-square)](https://github.com/darthdaenerys/Brain-Tumour-Classification/network/members)  
 
 ![Brain-MRI-Image-Classification-Using-Deep-Learning-Cover-Photo](https://github.com/strikersps/Brain-MRI-Image-Classification-Using-Deep-Learning/blob/main/Project-Cover-Photo.jpg)  
 
