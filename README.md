@@ -37,7 +37,7 @@
 ```
 ## About Dataset  
 - Refer to [README.md](https://github.com/strikersps/Brain-MRI-Image-Classification-Using-Deep-Learning/blob/main/Brain-Tumor-Dataset/README.md) file in the [Brain Tumor Dataset directory](https://github.com/strikersps/Brain-MRI-Image-Classification-Using-Deep-Learning/tree/main/Brain-Tumor-Dataset) in this repository to get a clear idea about the dataset and the preprocessing steps.  
-- The below image gives a glimpse about the different kinds of tumors with its localisation through a binary map after pre-processing the `.mat` file in which the image data was stored.  
+- The below image gives a glimpse about the different kinds of tumors present in the human brain i.e. (Glioma, Meningioma, Pituitary)
 ![Brain-MRI-Images-With-Localisation-Masks](https://github.com/strikersps/Brain-MRI-Image-Classification-Using-Deep-Learning/blob/main/Brain-Tumor-MRI-With-Localisation-Masks.png)    
 
 ## Results  
